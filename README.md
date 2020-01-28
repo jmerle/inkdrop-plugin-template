@@ -18,6 +18,8 @@ This template repository provides an easy way to start working on a new [Inkdrop
 [![Build Status](https://dev.azure.com/jmerle/inkdrop-hello-world/_apis/build/status/Build?branchName=master)](https://dev.azure.com/jmerle/inkdrop-hello-world/_build/latest?definitionId=1&branchName=master)
 [![License](https://img.shields.io/github/license/jmerle/inkdrop-hello-world)](https://github.com/jmerle/inkdrop-hello-world/blob/master/LICENSE)
 
+Short description about the plugin.
+
 ## Install
 
 ```
@@ -26,7 +28,7 @@ ipm install hello-world
 
 ## Usage
 
-Hello World plugin usage, supported by screenshots where useful.
+Plugin usage, supported by screenshots where useful.
 
 ## Changelog
 
