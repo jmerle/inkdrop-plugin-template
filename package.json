@@ -84,12 +84,10 @@
   },
   "lint-staged": {
     "*.js": [
-      "eslint --format codeframe --fix",
-      "git add"
+      "eslint --format codeframe --fix"
     ],
     "*.{less,yml,json}": [
-      "prettier --write",
-      "git add"
+      "prettier --write"
     ]
   },
   "prettier": {
