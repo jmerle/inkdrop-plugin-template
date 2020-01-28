@@ -16,6 +16,7 @@ This template repository provides an easy way to start working on a new [Inkdrop
 # Hello World
 
 [![Build Status](https://dev.azure.com/jmerle/inkdrop-hello-world/_apis/build/status/Build?branchName=master)](https://dev.azure.com/jmerle/inkdrop-hello-world/_build/latest?definitionId=1&branchName=master)
+[![Latest release)](https://img.shields.io/github/v/release/jmerle/inkdrop-hello-world)](https://github.com/jmerle/inkdrop-hello-world/releases/latest)
 [![License](https://img.shields.io/github/license/jmerle/inkdrop-hello-world)](https://github.com/jmerle/inkdrop-hello-world/blob/master/LICENSE)
 
 Short description about the plugin.
