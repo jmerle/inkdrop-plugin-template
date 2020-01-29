@@ -18,7 +18,7 @@ After installing all dependencies, it's time to get to work. The following comma
 - `lint`: lint the code using ESLint and Prettier
 - `fix`: auto-fix code style issues using ESLint and Prettier
 
-To install the plugin locally for development, run `ipm link --dev`. Make sure "Development Mode" is turned on inside Inkdrop (Preferences > General). You'll need to reload Inkdrop (Developer > Reload) every time you rebuild the extension through `yarn build` or after changing a source file while `yarn dev` is running. Alternatively install the [Auto Reload](https://my.inkdrop.app/plugins/auto-reload) plugin to automatically reload Inkdrop whenever a plugin is modified.
+To install the plugin locally for development, run `ipm link --dev`. Make sure "Development Mode" is turned on inside Inkdrop (Preferences > General). You'll need to reload Inkdrop (Developer > Reload) every time you rebuild the extension through `yarn build` or after changing a source file while `yarn dev` is running. Alternatively you can install the [Auto Reload](https://my.inkdrop.app/plugins/auto-reload) plugin to automatically reload Inkdrop whenever a plugin is modified.
 
 ## Maintainer Tasks
 
