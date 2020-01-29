@@ -11,7 +11,7 @@ See [Auto Reload](https://my.inkdrop.app/plugins/auto-reload) for a plugin based
 3. Create a new Azure DevOps project and create a build pipeline for it. Specify that the code is hosted on GitHub and when asked select the repository you created in step 1.
 4. Rename the build pipeline to "Build" by going to `Pipelines > Builds`, selecting the newly created pipeline, clicking on the three dots on the top-right and selecting "Rename/move".
 5. With the "Build" pipeline history open, look in the url bar and copy the value of `definitionId` to the Build Status badge's `definitionId` just underneath the title in this readme. Also replace all instances of "jmerle/inkdrop-hello-world" in the Build Status badge's urls with your Azure DevOps username and the correct Azure DevOps project name.
-6. Remove everything from the next horizontal line and above from this README and start reading the [CONTRIBUTING.md](./CONTRIBUTING.md) file to learn how to set-up a development environment and how to publish new releases.
+6. Remove everything from the next horizontal line and above from this README and start reading the [Contributing Guide](./CONTRIBUTING.md) to learn how to set-up a development environment and how to publish new releases.
 
 ---
 
@@ -39,4 +39,4 @@ See the [GitHub releases](https://github.com/jmerle/inkdrop-hello-world/releases
 
 ## Contributing
 
-All contributions are welcome. Please read [CONTRIBUTING.md](https://github.com/jmerle/inkdrop-hello-world/blob/master/CONTRIBUTING.md) first as it contains information regarding the tools used by the project and instructions on how to set up a development environment.
+All contributions are welcome. Please read the [Contributing Guide](https://github.com/jmerle/inkdrop-hello-world/blob/master/CONTRIBUTING.md) first as it contains information regarding the tools used by the project and instructions on how to set up a development environment.
