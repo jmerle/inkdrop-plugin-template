@@ -2,6 +2,8 @@
 
 This template repository provides an easy way to start working on a new [Inkdrop](https://inkdrop.app/) plugin with all batteries included.
 
+See [Auto Reload](https://my.inkdrop.app/plugins/auto-reload) for a plugin based on this template.
+
 ## Getting Started
 
 1. Create a new repository by clicking the "Use this template" button. It is recommended to name the repository `inkdrop-hello-world` for a plugin called `hello-world`.
