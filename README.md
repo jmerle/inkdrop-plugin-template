@@ -15,7 +15,7 @@ See [Auto Reload](https://my.inkdrop.app/plugins/auto-reload) for a plugin based
 
 ---
 
-# Hello World
+# Hello World plugin for Inkdrop
 
 [![Build Status](https://dev.azure.com/jmerle/inkdrop-hello-world/_apis/build/status/Build?branchName=master)](https://dev.azure.com/jmerle/inkdrop-hello-world/_build/latest?definitionId=1&branchName=master)
 [![Latest release)](https://img.shields.io/github/v/release/jmerle/inkdrop-hello-world)](https://my.inkdrop.app/plugins/hello-world)
