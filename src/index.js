@@ -1,3 +1,5 @@
+'use babel';
+
 export function activate() {
   console.log('Plugin activated');
 }
