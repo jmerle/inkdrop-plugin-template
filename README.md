@@ -7,7 +7,7 @@ See [Auto Reload](https://my.inkdrop.app/plugins/auto-reload) for a plugin based
 ## Getting Started
 
 1. Create a new repository by clicking the "Use this template" button. It is recommended to name the repository `inkdrop-hello-world` for a plugin called `hello-world`.
-2. Edit the `README.md`, `LICENSE` and `package.json` files and make sure the data inside them is correct and using your username and repository name. Don't modify the "Build Status" badge url's in the readme just yet, that's done in step 5.
+2. Edit the `README.md`, `LICENSE` and `package.json` files and make sure the data inside them is correct and using your username and repository name.
 3. Remove everything from the next horizontal line and above from this README and start reading the [Contributing Guide](./CONTRIBUTING.md) to learn how to set-up a development environment and how to publish new releases.
 
 ---
