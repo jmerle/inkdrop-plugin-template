@@ -14,10 +14,9 @@ See [Auto Reload](https://my.inkdrop.app/plugins/auto-reload) for a plugin based
 
 # Hello World plugin for Inkdrop
 
-[![Build status](https://github.com/jmerle/inkdrop-hello-world/workflows/Build/badge.svg)](https://github.com/jmerle/inkdrop-hello-world/actions?query=workflow%3ABuild)
-[![Latest release](https://inkdrop-plugin-badge.vercel.app/api/version/hello-world?style=flat)](https://my.inkdrop.app/plugins/hello-world)
+[![Build Status](https://github.com/jmerle/inkdrop-hello-world/workflows/Build/badge.svg)](https://github.com/jmerle/inkdrop-hello-world/actions?query=workflow%3ABuild)
+[![Latest Release](https://inkdrop-plugin-badge.vercel.app/api/version/hello-world?style=flat)](https://my.inkdrop.app/plugins/hello-world)
 [![Downloads](https://inkdrop-plugin-badge.vercel.app/api/downloads/hello-world?style=flat)](https://my.inkdrop.app/plugins/hello-world)
-[![License](https://img.shields.io/github/license/jmerle/inkdrop-hello-world)](https://github.com/jmerle/inkdrop-hello-world/blob/master/LICENSE)
 
 Short description about the plugin.
 
