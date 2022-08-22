@@ -32,7 +32,7 @@ Plugin usage, supported by screenshots where useful.
 
 ## Changelog
 
-See the [GitHub releases](https://github.com/jmerle/inkdrop-hello-world/releases) for an overview of what changed in each update.
+See the [GitHub Releases](https://github.com/jmerle/inkdrop-hello-world/releases) for an overview of what changed in each update.
 
 ## Contributing
 
